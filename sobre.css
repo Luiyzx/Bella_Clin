@@ -1,0 +1,95 @@
+header{
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(232,225,201,1) 100%);
+    padding: 20px 0;
+}
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav a{
+    text-transform: uppercase;
+    color: rgb(123, 67, 21);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+.tituloprincipal{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+    color: rgb(123, 67, 21);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(123, 67, 21); 
+}
+.sobreleft{
+    font-size: 20px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	text-align: center;
+	color: rgb(123, 67, 21); 
+	text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.imagemsobre{
+    margin-left: 50px;
+    margin-right: 20px;
+    text-align: justify;
+    text-align: right;  
+}
+.sobreright{
+    font-size: 20px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	text-align: center;
+	color: rgb(123, 67, 21);
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+}
+.imagemsobre2{
+    margin-left: 20px;
+    margin-right: 50px;
+    text-align: justify;
+    text-align: left;  
+}
+
+footer{
+    text-align: center;
+    background: rgb(255,255,255);
+	background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(232,225,201,1) 100%);
+    padding: 40px 0;
+}
+
+.copyright{
+    color: rgb(144, 72, 16);
+    font-size: 13px;
+    margin: 0 0 0;
+	text-align: center;
+}
+
+.logo{
+    width: 200px;
+}
